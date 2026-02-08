@@ -12,5 +12,3 @@ Web Development, AI/ML and DSA in Java
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kumar-Aryan-99Pk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
